@@ -1,0 +1,1 @@
+path: C:\Users\s303\AndroidStudioProjects\MyApplication7\app\src\main\java\com\example\myapplication
